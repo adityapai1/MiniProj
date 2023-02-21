@@ -71,10 +71,11 @@
         border-radius: 6px;
         border-width: 1.75px;
         border-style: solid;
-        border-color:#3F0071
+        border-color:#3F0071;
         text-align: center;
         background-color: bisque;
     }
+
     button {
 
         color: #020000;
